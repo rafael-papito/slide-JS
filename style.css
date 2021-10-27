@@ -1,0 +1,15 @@
+* {box-sizing:border-box}
+.clear{
+	clear: both;
+}
+.boxSlide {
+    width: 115px;
+    height: 115px;
+    margin: 150px auto;
+    border: 7px solid black;
+}
+.mySlides {
+    display: none;
+    width: 100px;
+    height: 100px;
+}
